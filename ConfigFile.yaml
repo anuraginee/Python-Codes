@@ -1,0 +1,3 @@
+host : "http://192.168.181.215:7050/sentences_score/v1"
+
+Json : C:\Users\pratik\Desktop\REST_API\Input_sheet\Input_JSON.csv
