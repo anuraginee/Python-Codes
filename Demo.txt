@@ -1,1 +1,3 @@
-Hello World
+Hello!!
+Studying Git for practice and demo
+
